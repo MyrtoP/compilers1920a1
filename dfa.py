@@ -35,6 +35,7 @@ def get_char(text,pos):
 	
 	# (Γ) Προαιρετικά, μπορείτε να ομαδοποιήσετε τους
 	# χαρακτήρες εισόδου εδώ.
+	# An i eisodos einai ari8mos tote epestre3e Digit 
 	# Για λεπτομέρειες δείτε στο:
 	# http://mixstef.github.io/courses/compilers/lecturedoc/unit1/module1.html#id11
 	if c>='0' and c<='9':
